@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Visual studio projects\two way sort merge c++\two way sort - merge\Source.cpp(55,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  two way sort - merge.vcxproj -> D:\Visual studio projects\two way sort merge c++\two way sort - merge\Debug\two way sort - merge.exe
