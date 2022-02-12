@@ -1,0 +1,27 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    int x = 7;
+}
+<div class="text-center">
+    <h1>
+        @Model.Value
+    </h1>
+    <form method="post">
+        <input type="text" placeholder="Name"  asp-for="name" />
+        <input type="submit" value="Enter"  />
+        <p >@Model.Result</p>
+    </form>
+    @(x = 827+9)
+    @if(x!=0)
+    {
+        <p></p>
+    }
+    else
+    {
+        <p>
+            any @x do something
+        </p>
+    }
+</div>
