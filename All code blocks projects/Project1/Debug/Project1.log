@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Visual studio projects\All code blocks projects\Project1\Source.cpp(100,14): warning C4805: '|=': unsafe mix of type 'unsigned char' and type 'bool' in operation
+D:\Visual studio projects\All code blocks projects\Project1\Source.cpp(252,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Visual studio projects\All code blocks projects\Project1\Source.cpp(258,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Visual studio projects\All code blocks projects\Project1\Source.cpp(260,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> D:\Visual studio projects\All code blocks projects\Project1\Debug\Project1.exe
